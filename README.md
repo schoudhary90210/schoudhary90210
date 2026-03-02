@@ -18,6 +18,14 @@
 
 <br/>
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-siddhantchoudhary.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhantchoudhary.vercel.app)
+
+</div>
+
+<br/>
+
 <!-- About section -->
 <div align="center">
 
@@ -166,6 +174,7 @@ class Siddhant:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://siddhantchoudhary.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=64ffda)](https://linkedin.com/in/siddhantchoudhary-)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:csiddhant12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/schoudhary90210)
