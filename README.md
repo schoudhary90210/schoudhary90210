@@ -1,11 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=200&section=header&text=Siddhant%20Choudhary&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20%2B%20Mathematics%20%40%20UW-Madison&descColor=8892b0&descSize=18&descAlignY=58&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:93c5fd,100:3b82f6&height=200&section=header&text=Siddhant%20Choudhary&fontSize=48&fontColor=1e293b&fontAlignY=38&desc=CS%20%2B%20Mathematics%20%40%20UW-Madison&descColor=475569&descSize=18&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=200&section=header&text=Siddhant%20Choudhary&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20%2B%20Mathematics%20%40%20UW-Madison&descColor=8892b0&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:3b82f6&height=200&section=header&text=Siddhant%20Choudhary&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20%2B%20Mathematics%20%40%20UW-Madison&descColor=cbd5e1&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -179,8 +175,4 @@ class Siddhant:
 </div>
 
 <!-- Footer wave -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:93c5fd,100:dbeafe&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=100&section=footer" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:1e3a5f&height=100&section=footer" width="100%" />
