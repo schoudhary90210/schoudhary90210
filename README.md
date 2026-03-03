@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-siddhantchoudhary.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhantchoudhary.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-siddhant--choudhary.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://siddhantchoudhary.vercel.app)
 
 </div>
 
