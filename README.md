@@ -33,7 +33,6 @@
 class Siddhant:
     university  = "University of Wisconsin-Madison"
     degree      = "B.S. Computer Science + Mathematics"
-    gpa         = 3.7
     graduating  = 2027
     location    = "Madison, WI"
 
