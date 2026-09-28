@@ -9,9 +9,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%2B+ML+Engineer;Building+at+the+intersection+of+math+%26+code;UW-Madison+%7C+Class+of+2027;ex+QCRI+%7C+MD+Anderson+%7C+UNDP" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%2B+ML+Engineer;Building+at+the+intersection+of+math+%26+code;UW-Madison+%7C+Class+of+2027;ex+QCRI+%7C+MD+Anderson+%7C+UNDP" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%2B+ML+Engineer;Building+at+the+intersection+of+math+%26+code;UW-Madison+%7C+Class+of+2027;ex+QCRI+%7C+MD+Anderson+%7C+UNDP" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%2B+ML+Engineer;Building+at+the+intersection+of+math+%26+code;UW-Madison+%7C+Class+of+2028;ex+QCRI+%7C+MD+Anderson+%7C+UNDP" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%2B+ML+Engineer;Building+at+the+intersection+of+math+%26+code;UW-Madison+%7C+Class+of+2028;ex+QCRI+%7C+MD+Anderson+%7C+UNDP" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Quantitative+Finance+%2B+ML+Engineer;Building+at+the+intersection+of+math+%26+code;UW-Madison+%7C+Class+of+2028;ex+QCRI+%7C+MD+Anderson+%7C+UNDP" />
 </picture>
 
 </div>
@@ -33,7 +33,7 @@
 class Siddhant:
     university  = "University of Wisconsin-Madison"
     degree      = "B.S. Computer Science + Mathematics"
-    graduating  = 2027
+    graduating  = 2028
     location    = "Madison, WI"
 
     interests   = ["Quantitative Finance", "Machine Learning",
